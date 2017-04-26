@@ -1,0 +1,6 @@
+{
+    "name" : "Cats",
+    "exe_name" : "cat",
+    "description": "get cats",
+    "memory": 2
+}

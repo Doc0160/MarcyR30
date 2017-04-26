@@ -1,0 +1,6 @@
+{
+    "name" : "tinyurl",
+    "exe_name" : "tinyurl",
+    "description": "shorten urls",
+    "memory": 0
+}
