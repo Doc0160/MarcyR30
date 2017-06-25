@@ -1,6 +1,8 @@
 @echo off
 setlocal EnableExtensions EnableDelayedExpansion
 
+goto skip
+
 go get
 set CGO_ENABLED=0
 
@@ -48,6 +50,7 @@ for /d %%f in (.) do (
        goto exit
     )
 )
+:skip
 
 ibt -begin ibt\marcy.ibt
 

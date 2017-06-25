@@ -2,5 +2,5 @@
     "name" : "prosit",
     "exe_name" : "prosit",
     "description": "prosit",
-    "cacheable": true
+    "memory": 2
 }

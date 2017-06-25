@@ -2,5 +2,5 @@
     "name" : "tinyurl",
     "exe_name" : "tinyurl",
     "description": "shorten urls",
-    "cacheable": false
+    "memory": 0
 }
