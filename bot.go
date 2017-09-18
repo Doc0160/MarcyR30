@@ -32,7 +32,7 @@ type Bot struct {
 
 var Marcy = Bot {
     Discord: ChatInfo{
-        Token: "MjUyMTYxMjQzNzQ0MzA1MTUy.C2qXbw.0YlGKkWvz1MFRSp_NnGQhFEmOlo",
+        Token: "-",
         ID: "252161243744305152",
         OwnerID: "252159849108865024",
     },
