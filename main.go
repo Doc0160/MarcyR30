@@ -55,7 +55,7 @@ func main(){
                 "q": m.Content,
             }).
                 SetHeader("Accept", "application/json").
-                SetAuthToken("V5DLKYOR6PP2QDJSZ4ZFVMNWM27EJAAS").
+                SetAuthToken("-").
                 SetResult(&WitResp{}).
                 Get("https://api.wit.ai/message")
             if err != nil {
